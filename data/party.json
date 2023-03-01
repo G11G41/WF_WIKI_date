@@ -1,12 +1,4 @@
-[
- "img/party/1.jpg",
- "img/party/2.jpg",
- "img/party/3.jpg",
- "img/party/4.jpg",
- "img/party/5.jpg",
- "img/party/6.jpg"
-]
-
+{
  "party": {
     "风": "img/party/地狱风.jpg",
     "雷": "img/party/地狱雷.jpg",
@@ -15,5 +7,7 @@
     "暗": "img/party/地狱暗.jpg",
     "光": "img/party/地狱光.jpg"
  }
+}
+
 
   
