@@ -6,3 +6,14 @@
  "img/party/5.jpg",
  "img/party/6.jpg"
 ]
+
+ "party": {
+    "风": "img/party/地狱风.jpg",
+    "雷": "img/party/地狱雷.jpg",
+    "火": "img/party/地狱火.jpg",
+    "水": "img/party/地狱水.jpg",
+    "暗": "img/party/地狱暗.jpg",
+    "光": "img/party/地狱光.jpg"
+ }
+
+  
