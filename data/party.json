@@ -1,12 +1,16 @@
 {
  "hell_party": {
   
-    "风": "img/party/地狱风.jpg",
-    "雷": "img/party/地狱雷.jpg",
-    "火": "img/party/地狱火.jpg",
-    "水": "img/party/地狱水.jpg",
-    "暗": "img/party/地狱暗.jpg",
-    "光": "img/party/地狱光.jpg"
+    "地狱风": "img/party/地狱风.jpg",
+    "地狱雷": "img/party/地狱雷.jpg",
+    "地狱火": "img/party/地狱火.jpg",
+    "地狱水": "img/party/地狱水.jpg",
+    "地狱暗": "img/party/地狱暗.jpg",
+    "地狱光": "img/party/地狱光.jpg",
+     "工具盘": "img/party/工具盘.jpg",
+  "竞速": "img/party/竞速.jpg",
+   "活动": "img/party/青之女王.jpg",
+  
  },
   "furniture": ["img/furniture.png"]
 }
