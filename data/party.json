@@ -15,9 +15,10 @@
      "超暗": "img/party/超暗.jpg",
     "工具盘": "img/party/工具盘.jpg",
     "竞速": "img/party/竞速.jpg",
+     "土俑": "img/party/土俑.jpg"，
     "活动": "img/party/万圣节活动.jpg",
-   "超机": "img/party/超机.jpg",
-   "土俑": "img/party/土俑.jpg"
+   "超机": "img/party/超机.jpg"
+   
   
  },
   "furniture": ["img/furniture.png"]
